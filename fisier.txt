@@ -1,0 +1,8 @@
+matematica,3,real,alex
+chimie,5,real,andrei
+fizica,8,real,alex
+romana,5,real,alex
+informatica,8,real,andrei
+sport,3,uman,andrei
+info,4,real,nico
+biologie,5,real,alexandra
